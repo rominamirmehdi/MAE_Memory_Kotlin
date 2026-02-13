@@ -1,6 +1,8 @@
 # MAE Memory Game
 
-## 📄 Dokumentation
+Ein Android Memory-Spiel entwickelt mit Kotlin und Jetpack Compose.
+
+## Dokumentation
 
 Die vollständige Projektdokumentation findest du hier:
 
